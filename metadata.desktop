@@ -1,0 +1,29 @@
+[Desktop Entry]
+Name=Colour Breeze
+Name[de]=Colour Breeze
+Name[en_GB]=Colour Breeze
+
+
+X-KDE-PluginInfo-Author=Will_S.
+X-KDE-PluginInfo-Email=info@kde-neon.ode
+X-KDE-PluginInfo-Name=colour-breeze
+X-KDE-PluginInfo-Version=5.30
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Next
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
+
+[ContrastEffect]
+enabled=true
+contrast=0.2
+#intensity is disabled, in order to auto adjust to the chosen theme color
+# intensity=2.0
+saturation=1.7
